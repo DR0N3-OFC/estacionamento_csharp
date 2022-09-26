@@ -1,0 +1,15 @@
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\bin\Debug\net6.0\EstacionamentoCSharp.exe
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\bin\Debug\net6.0\EstacionamentoCSharp.deps.json
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\bin\Debug\net6.0\EstacionamentoCSharp.runtimeconfig.json
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\bin\Debug\net6.0\EstacionamentoCSharp.dll
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\bin\Debug\net6.0\EstacionamentoCSharp.pdb
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.csproj.AssemblyReference.cache
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.AssemblyInfoInputs.cache
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.AssemblyInfo.cs
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.csproj.CoreCompileInputs.cache
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.dll
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\refint\EstacionamentoCSharp.dll
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.pdb
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\EstacionamentoCSharp.genruntimeconfig.cache
+D:\Programação\DIO\Pottencial .NET Developer\estacionamento_csharp\obj\Debug\net6.0\ref\EstacionamentoCSharp.dll

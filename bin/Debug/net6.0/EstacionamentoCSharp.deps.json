@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "DesafioFundamentos/1.0.0": {
+      "EstacionamentoCSharp/1.0.0": {
         "runtime": {
-          "DesafioFundamentos.dll": {}
+          "EstacionamentoCSharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DesafioFundamentos/1.0.0": {
+    "EstacionamentoCSharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

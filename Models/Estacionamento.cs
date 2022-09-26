@@ -1,4 +1,4 @@
-namespace DesafioFundamentos.Models
+namespace EstacionamentoCSharp.Models
 {
     public class Estacionamento
     {
